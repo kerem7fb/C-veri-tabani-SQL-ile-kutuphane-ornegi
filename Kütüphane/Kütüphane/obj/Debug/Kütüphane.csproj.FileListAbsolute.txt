@@ -1,0 +1,23 @@
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Kütüphane\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csprojResolveAssemblyReference.cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Form1.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.Cache
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\ÖĞRENCİ\Desktop\Muhammed Kerem Doğmuş\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Form2.resources
+E:\Muhammed Kerem Doğmuş\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+E:\Muhammed Kerem Doğmuş\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+E:\Muhammed Kerem Doğmuş\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\user\Desktop\10-M\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe.config
+C:\Users\user\Desktop\10-M\Kütüphane\Kütüphane\obj\Debug\Kütüphane.exe
+C:\Users\user\Desktop\10-M\Kütüphane\Kütüphane\obj\Debug\Kütüphane.pdb
+C:\Users\user\Desktop\10-M\Kütüphane\Kütüphane\bin\Debug\Kütüphane.exe
+C:\Users\user\Desktop\10-M\Kütüphane\Kütüphane\bin\Debug\Kütüphane.pdb
+C:\Users\user\Desktop\10-M\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\10-M\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Form1.resources
+C:\Users\user\Desktop\10-M\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Form2.resources
+C:\Users\user\Desktop\10-M\Kütüphane\Kütüphane\obj\Debug\Kütüphane.Properties.Resources.resources
+C:\Users\user\Desktop\10-M\Kütüphane\Kütüphane\obj\Debug\Kütüphane.csproj.GenerateResource.Cache
